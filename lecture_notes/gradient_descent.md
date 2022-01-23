@@ -25,6 +25,10 @@ $$
 \forall x_i: h(x) = w_0 + w_1x_i^1 + \ldots + w_nx_i^n = \sum_{j=1}^{n}w_jx_i^j = \overline{x}_i^T\overline{w}
 $$
 
+Обратим внимание на специальный признак $w_0$ - он называется intercept. Позволяет более точно решать задачу, как видно по картинке
+
+![intercept_apply](img/intercept_apply.png)
+
 Мера качества $L$ для задачи регрессии - квадрат разности между фактическим значением и прогнозом. 
 $$
 L(h(x_i, \theta), y_i) = \left(y_i - h(x_i, \theta)\right)^2 = \left(y_i -  \sum_{j=1}^{n}w_jx_i^j\right)^2
