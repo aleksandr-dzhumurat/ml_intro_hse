@@ -16,45 +16,45 @@
     
 * Лекция 3. Классификация, линейные модели
     * [slides](https://docs.google.com/presentation/d/1P6BGXL1RF4ehTRXCs7zU2jLkIOLfagRk/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
-    * [видео]()
+    * [видео](https://youtu.be/-FDok30act0)
     * [lecture notes](./lecture_notes/)
     * [notebook](./jupyter_notebooks/Part_III_validation_generalization_ability_overfitting.ipynb)
     
 * Лекция 4. Классификация, линейные модели
-    * [slides]()
-    * [видео]()
+    * [slides](https://docs.google.com/presentation/d/1jiV8xDS-26Vit6eMbzAXmvgd2tSeyh3P/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
+    * [видео](https://youtu.be/-FDok30act0)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/)
+    * [notebook](./jupyter_notebooks/Part_IV_classification.ipynb)
     
 * Лекция 5. Деревянные модели: случайный лес и градиентный бустинг
-    * [slides]()
-    * [видео]()
+    * [slides](https://docs.google.com/presentation/d/11uOvlnIs4PhTnXRq7MWs-zFRoGLqW9bB/edit#slide=id.g111d491c0c7_0_11)
+    * [видео](https://youtu.be/Q2h7CkvZXIo)
     * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks/Part_V_Trees_Boosting.ipynb)
     
 * Лекция 6. Обучение без учителя: кластеризация, снижение размерности
     * [slides]()
     * [видео]()
     * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks/)
     
-* Лекция 7. Введение в NLP: извлекаем из текста простые фичи
+* Лекция 7. Feature engineering
     * [slides]()
     * [видео]()
     * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks//Part_VII_feature_engineering.ipynb)
     
-* Лекция 8. Эмбеддинги на примере Word2Vec.
+* Лекция 8. End2End обучение: neural networks
     * [slides]()
     * [видео]()
     * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks/)
     
-* Лекция 9. End2end обучение: введение в нейронные сети
+* Лекция 10. Приложения ML: введение в нейронные сети
     * [slides]()
     * [видео]()
     * [lecture notes](./lecture_notes/)
-    
-* Лекция 10. Приложения ML: рекомендательные системы
-    * [slides]()
-    * [видео]()
-    * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks/)
 
 
 ## Подготовка к работе
