@@ -1,6 +1,7 @@
 numpy==1.21.0
-sklearn==0.24.2
+sklearn
 jupyter==1.0.0
 pandas==1.4.1
 requests==2.27.1
-tqdm
+tqdm==4.63
+matplotlib==3.5
