@@ -6,55 +6,61 @@
     * [slides](https://docs.google.com/presentation/d/17lCrDPFqPzrxco9NOdgBCx_1ewLJ7iQ9/edit#slide=id.p1)
     * [видео](https://youtu.be/_BSlnZzlng4)
     * [lecture notes](./lecture_notes/ml_intro.md)
-    * [notebook](./jupyter_notebooks/Part_I_ML_intro.ipynb)
+    * [notebook](./jupyter_notebooks/Part_01_ML_intro.ipynb)
     
 * Лекция 2. Градиентное обучение
     * [slides]()
     * [видео]()
     * [lecture notes](./lecture_notes/gradient_descent.md)
-    * [notebook](./jupyter_notebooks/Part_II_gradient_descent.ipynb)
+    * [notebook](./jupyter_notebooks/Part_02_gradient_descent.ipynb)
     
 * Лекция 3. Классификация, линейные модели
     * [slides](https://docs.google.com/presentation/d/1P6BGXL1RF4ehTRXCs7zU2jLkIOLfagRk/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
     * [видео](https://youtu.be/-FDok30act0)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/Part_III_validation_generalization_ability_overfitting.ipynb)
+    * [notebook](./jupyter_notebooks/Part_03_validation_generalization_ability_overfitting.ipynb)
     
 * Лекция 4. Классификация, линейные модели
     * [slides](https://docs.google.com/presentation/d/1jiV8xDS-26Vit6eMbzAXmvgd2tSeyh3P/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
     * [видео](https://youtu.be/-FDok30act0)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/Part_IV_classification.ipynb)
+    * [notebook](./jupyter_notebooks/Part_04_classification.ipynb)
     
 * Лекция 5. Деревянные модели: случайный лес и градиентный бустинг
     * [slides](https://docs.google.com/presentation/d/11uOvlnIs4PhTnXRq7MWs-zFRoGLqW9bB/edit#slide=id.g111d491c0c7_0_11)
     * [видео](https://youtu.be/Q2h7CkvZXIo)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/Part_V_Trees_Boosting.ipynb)
+    * [notebook](./jupyter_notebooks/Part_05_Trees_Boosting.ipynb)
     
-* Лекция 6. Обучение без учителя: кластеризация, снижение размерности
+* Лекция 6. Пример ML проекта: классификация кликбейта
     * [slides]()
-    * [видео]()
+    * [видео](https://youtu.be/EaQQ83YNH24)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/)
+    * [notebook](./jupyter_notebooks/Part_06_ML_project_example.ipynb)
     
-* Лекция 7. Feature engineering
+* Лекция 7. Обучение без учителя: кластеризация, снижение размерности
     * [slides]()
-    * [видео]()
+    * [видео](https://youtu.be/Q8zOYacXLXI)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks//Part_VII_feature_engineering.ipynb)
+    * [notebook](./jupyter_notebooks/Part_07_feature_engineering.ipynb)
     
-* Лекция 8. End2End обучение: neural networks
+* Лекция 8. Neural Networks
     * [slides]()
-    * [видео]()
+    * [видео](https://youtu.be/tOSAjblsCtc)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/)
+    * [notebook](./jupyter_notebooks/Part_08_neural_networks.ipynb)
     
-* Лекция 10. Приложения ML: введение в нейронные сети
+* Лекция 9. Feature Engineering
     * [slides]()
-    * [видео]()
+    * [видео](https://youtu.be/kYibLwNYYU0)
     * [lecture notes](./lecture_notes/)
-    * [notebook](./jupyter_notebooks/)
+    * [notebook](./jupyter_notebooks/Part_9_feature_engineering.ipynb)
+    
+* Лекция 10. Приложения ML: рекомендательные системы
+    * [slides]()
+    * [видео](https://youtu.be/n2Dx0-1Xw_M)
+    * [lecture notes](./lecture_notes/)
+    * [notebook](./jupyter_notebooks/Part_10_recommeder_systems.ipynb)
 
 
 ## Подготовка к работе
