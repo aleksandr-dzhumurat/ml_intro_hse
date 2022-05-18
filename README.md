@@ -9,8 +9,8 @@
     * [notebook](./jupyter_notebooks/Part_01_ML_intro.ipynb)
     
 * Лекция 2. Градиентное обучение
-    * [slides]()
-    * [видео]()
+    * [slides](https://docs.google.com/presentation/d/1hnSsAvs3D-Lncis12Q6aPbbbvp_ISZdg/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
+    * [видео](https://youtu.be/redXBYr76TM)
     * [lecture notes](./lecture_notes/gradient_descent.md)
     * [notebook](./jupyter_notebooks/Part_02_gradient_descent.ipynb)
     
@@ -39,25 +39,25 @@
     * [notebook](./jupyter_notebooks/Part_06_ML_project_example.ipynb)
     
 * Лекция 7. Обучение без учителя: кластеризация, снижение размерности
-    * [slides]()
+    * [slides](https://docs.google.com/presentation/d/13jwAaOxgZG2gAdE7WmswEr82ZzSqQNZK/edit#slide=id.g110579a0ab8_0_0)
     * [видео](https://youtu.be/Q8zOYacXLXI)
     * [lecture notes](./lecture_notes/)
     * [notebook](./jupyter_notebooks/Part_07_feature_engineering.ipynb)
     
 * Лекция 8. Neural Networks
-    * [slides]()
+    * [slides](https://docs.google.com/presentation/d/1dIUdLC1fcz_C6HJrC2Gw-SyoEmsHC-Lj/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
     * [видео](https://youtu.be/tOSAjblsCtc)
     * [lecture notes](./lecture_notes/)
     * [notebook](./jupyter_notebooks/Part_08_neural_networks.ipynb)
     
 * Лекция 9. Feature Engineering
-    * [slides]()
+    * [slides](https://docs.google.com/presentation/d/1iupEylPck-wi7CNTyZpIuT3dltZtcDdl/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
     * [видео](https://youtu.be/kYibLwNYYU0)
     * [lecture notes](./lecture_notes/)
     * [notebook](./jupyter_notebooks/Part_9_feature_engineering.ipynb)
     
 * Лекция 10. Приложения ML: рекомендательные системы
-    * [slides]()
+    * [slides](https://docs.google.com/presentation/d/1LBvohO_Jug-LMfhFzSxB_5AuKkDkpBZ0/edit?usp=sharing&ouid=116356322827696809637&rtpof=true&sd=true)
     * [видео](https://youtu.be/n2Dx0-1Xw_M)
     * [lecture notes](./lecture_notes/)
     * [notebook](./jupyter_notebooks/Part_10_recommeder_systems.ipynb)
